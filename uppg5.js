@@ -7,10 +7,10 @@ function uppg5() {
     let num2= 17;
 
     if (num1 > num2){
-        console.log("The first number is greater than the second")
+        console.log("Det första talet är större än det andra")
     }
     else if (num1 < num2){
-        console.log("The second number is greater than the first")
+        console.log("Det andra talet är större än det första")
     }
 
 }
