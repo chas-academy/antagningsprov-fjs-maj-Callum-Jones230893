@@ -8,6 +8,16 @@ function uppg9 (){
 
     // anropa funktionen och skicka med en array som argument
 
+    function sort(numArray) {
+        for (let n of numArray) {
+            if (n % 2 === 0) {
+                console.log(n + " even");
+            } 
+            else {
+                console.log(n + " odd");
+            }
+        }
+
   
 }
 
