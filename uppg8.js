@@ -25,8 +25,8 @@ function uppg8(){
         console.log(p.name);
       }
     }
-  
 
+    over30(people);
 }
 
 module.exports = { uppg8 };
