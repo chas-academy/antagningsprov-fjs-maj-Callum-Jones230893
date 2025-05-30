@@ -23,7 +23,7 @@ function uppg10(){
         }
     }   
     return {
-        bigEvenm,
+        bigEven,
         smallOdd,
         other,
     };
