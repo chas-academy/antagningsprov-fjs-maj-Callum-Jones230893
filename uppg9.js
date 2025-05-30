@@ -17,7 +17,8 @@ function uppg9 (){
                 console.log(n + " odd");
             }
         }
-
+    }
+        sort([7, 12, 8, 3, 1, 10, 37, 14]);
   
 }
 
