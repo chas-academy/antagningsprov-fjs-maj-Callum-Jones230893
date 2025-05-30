@@ -11,10 +11,10 @@ function uppg9 (){
     function sort(numArray) {
         for (let n of numArray) {
             if (n % 2 === 0) {
-                console.log(n + " even");
+                console.log(n + " jämt");
             } 
             else {
-                console.log(n + " odd");
+                console.log(n + " udda");
             }
         }
     }
