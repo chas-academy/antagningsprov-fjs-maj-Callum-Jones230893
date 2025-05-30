@@ -15,7 +15,7 @@ function uppg10(){
         if (n > 10 && n % 2 === 0){
             bigEven.push(n);
         }
-        if else (n < 10 && n % 2 !== 0){
+        else if (n < 10 && n % 2 !== 0){
             smallOdd.push(n);
         }
         else {
