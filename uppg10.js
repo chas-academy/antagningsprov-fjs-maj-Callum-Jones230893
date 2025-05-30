@@ -21,7 +21,7 @@ function uppg10(){
         else {
             other.push(n);
         }
-        
+    }   
     return {
         bigEvenm,
         smallOdd,
