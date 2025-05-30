@@ -26,6 +26,7 @@ function uppg8(){
       }
     }
   }
+  
     over30(people);
 }
 
