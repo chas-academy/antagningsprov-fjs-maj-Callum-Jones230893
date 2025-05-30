@@ -11,6 +11,21 @@ function uppg8(){
 
 // anropa funktionen och skicka med arrayen som argument
 
+  const people= [
+    { name: "Callum", age: 32},
+    { name: "Caroline", age: 22},
+    { name: "Milo", age: 7},
+    { name: "Merlin", age: 17},
+    { name: "Jimmy", age: 42},
+    ];
+
+  function over30(peopleArray) {
+    for (let p of peopleArray) {
+      if (p.age > 30) {
+        console.log(p.name);
+      }
+    }
+  
 
 }
 
